@@ -16,14 +16,16 @@ https://public.tableau.com/views/HeartDiseaseProjectDashboard/Story1?:language=e
 ## Logistic Regression Model
 1. Used Target as our dependent variable.
 2. Achieved 83% accuracy
-![Alt text](<Screenshot 2024-05-28 at 9.36.37 PM.png>)
+
+![Alt text](<Screenshot 2024-06-04 at 7.28.48 PM.png>)
 
 ## Correlation Heatmap
-![Alt text](<Screenshot 2024-05-28 at 9.32.52 PM.png>)
+![Alt text](heatmap.png)
 
 ## Neural Network Model
 1. Used Target as our dependent variable.
 2. Removed xercised induced angina column (exang)
 3. Used 3 hidden layers and Sigmoid as the activation function
 4. Acheived 87.5% accuracy
+
 ![Alt text](<Screenshot 2024-06-04 at 7.26.28 PM.png>)

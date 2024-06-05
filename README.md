@@ -17,7 +17,7 @@ https://public.tableau.com/views/HeartDiseaseProjectDashboard/Story1?:language=e
 1. Used Target as our dependent variable.
 2. Achieved 83% accuracy
 
-![Alt text](<Screenshot 2024-06-04 at 7.28.48 PM.png>)
+![Alt text](<Logistic.png>)
 
 ## Correlation Heatmap
 ![Alt text](heatmap.png)

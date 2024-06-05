@@ -11,7 +11,7 @@ https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/data
 * Unhealthy diet
 * Physical inactivity 
 ## Tableau Visualizations
-
+https://public.tableau.com/views/HeartDiseaseProjectDashboard/Story1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 ## Logistic Regression
 Used Target as our dependent variable.

@@ -14,8 +14,8 @@ https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/data
 https://public.tableau.com/views/HeartDiseaseProjectDashboard/Story1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 ## Logistic Regression Model
-Used Target as our dependent variable.
-Achieved 83% accuracy
+1. Used Target as our dependent variable.
+2. Achieved 83% accuracy
 
 ## Neural Netweork Model
 Used Target as our dependent variable.

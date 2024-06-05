@@ -18,7 +18,7 @@ https://public.tableau.com/views/HeartDiseaseProjectDashboard/Story1?:language=e
 2. Achieved 83% accuracy
 
 ## Neural Netweork Model
-Used Target as our dependent variable.
-Removed xercised induced angina column (exang)
-Used 3 hidden layers and Sigmoid as the activation function
-Acheived 87.5% accuracy
+1. Used Target as our dependent variable.
+2. Removed xercised induced angina column (exang)
+3. Used 3 hidden layers and Sigmoid as the activation function
+4. Acheived 87.5% accuracy

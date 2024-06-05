@@ -1,1 +1,19 @@
 # HeartDisease
+Heart disease is a term used for conditions that affect the heart’s overall structure and function. Also referred to as Cardiovascular disease, it is currently the leading cause of death throughout the United States and globally. There are several problems that are related to heart disease, the most common of these being heart attacks, strokes, heart failure, or arrhythmia to name a few. There are several different types of treatments for these issues such as medication, surgery, and lifestyle changes. For our project we will look to analyze a set of data that was collected to see if we can predict if they have heart disease or not based on the various health conditions presented. 
+
+## Dataset: 
+https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/data
+
+## Factors that affect the Heart:
+* High blood pressure
+* High cholesterol
+* Smoking
+* Unhealthy diet
+* Physical inactivity 
+## Tableau Visualizations
+
+
+## Logistic Regression
+Used Target as our dependent variable.
+Achieved 83% accuracy
+

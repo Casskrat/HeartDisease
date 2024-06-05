@@ -13,7 +13,12 @@ https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/data
 ## Tableau Visualizations
 https://public.tableau.com/views/HeartDiseaseProjectDashboard/Story1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
-## Logistic Regression
+## Logistic Regression Model
 Used Target as our dependent variable.
 Achieved 83% accuracy
 
+## Neural Netweork Model
+Used Target as our dependent variable.
+Removed xercised induced angina column (exang)
+Used 3 hidden layers and Sigmoid as the activation function
+Acheived 87.5% accuracy

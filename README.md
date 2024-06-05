@@ -17,10 +17,10 @@ https://public.tableau.com/views/HeartDiseaseProjectDashboard/Story1?:language=e
 1. Used Target as our dependent variable.
 2. Achieved 83% accuracy
 
-![Alt text](<Logistic.png>)
+![Alt text](<Images/Logistic.png>)
 
 ## Correlation Heatmap
-![Alt text](heatmap.png)
+![Alt text](Images/heatmap.png)
 
 ## Neural Network Model
 1. Used Target as our dependent variable.
@@ -28,4 +28,4 @@ https://public.tableau.com/views/HeartDiseaseProjectDashboard/Story1?:language=e
 3. Used 3 hidden layers and Sigmoid as the activation function
 4. Acheived 87.5% accuracy
 
-![Alt text](<Screenshot 2024-06-04 at 7.26.28 PM.png>)
+![Alt text](<Images/Neural.png>)
